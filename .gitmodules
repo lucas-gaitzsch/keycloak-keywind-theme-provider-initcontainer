@@ -1,0 +1,3 @@
+[submodule "keywind"]
+	path = keywind
+	url = git@github.com:lukin/keywind.git
